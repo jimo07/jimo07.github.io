@@ -1,3 +1,10 @@
+/* 字体设置 */
+body {
+  font-family: "LXGW WenKai Screen", "Noto Serif SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+code, pre {
+  font-family: "JetBrains Mono", "Fira Code", monospace;
+}
 /* 背景图设置 */
 #web_bg {
   background: url(/img/bg.jpeg);
